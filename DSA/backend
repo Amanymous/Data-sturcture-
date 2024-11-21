@@ -1,0 +1,10 @@
+Journey starts with
+- Data structures and algorithms
+- Design patterns (every design pattern solves a problem, pick a design pattern, curiously search that what problem it solves and how)
+- Database ( normalization, indexing, migration, seeding, choosing database as per project requirements, concurrent requests handling, jobs, queue, nosql)
+- Cache ( redis, memcache and others)
+- Security ( authentication, authorization, gates, ACL, CORS, JWT, token management )
+- API standards and status codes
+- Server management / containerization( Docker, GCP, AWS, Jenkins )
+
+The list is still not completed but enough to become a decent backend developer. Make sure you know "why are you using it" not only "how to use it"
